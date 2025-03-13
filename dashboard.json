@@ -1,0 +1,8 @@
+[
+    {"name": "CSE", "image": "https://example.com/cse.jpg"},
+    {"name": "ECE", "image": "https://example.com/ece.jpg"},
+    {"name": "EEE", "image": "https://example.com/eee.jpg"},
+    {"name": "MECH", "image": "https://example.com/mech.jpg"},
+    {"name": "Civil", "image": "https://example.com/civil.jpg"},
+    {"name": "IT", "image": "https://example.com/it.jpg"}
+]
