@@ -1,8 +1,8 @@
 [
-    {"name": "CSE", "image": "https://example.com/cse.jpg"},
-    {"name": "ECE", "image": "https://example.com/ece.jpg"},
-    {"name": "EEE", "image": "https://example.com/eee.jpg"},
-    {"name": "MECH", "image": "https://example.com/mech.jpg"},
-    {"name": "Civil", "image": "https://example.com/civil.jpg"},
-    {"name": "IT", "image": "https://example.com/it.jpg"}
+    {"name": "CSE", "image": "https://raw.githubusercontent.com/jaisai1337/temp/refs/heads/main/image.png"},
+    {"name": "ECE", "image": "https://raw.githubusercontent.com/jaisai1337/temp/refs/heads/main/image.png"},
+    {"name": "EEE", "image": "https://raw.githubusercontent.com/jaisai1337/temp/refs/heads/main/image.png"},
+    {"name": "MECH", "image": "https://raw.githubusercontent.com/jaisai1337/temp/refs/heads/main/image.png"},
+    {"name": "Civil", "image": "https://raw.githubusercontent.com/jaisai1337/temp/refs/heads/main/image.png"},
+    {"name": "IT", "image": "https://raw.githubusercontent.com/jaisai1337/temp/refs/heads/main/image.png"}
 ]
