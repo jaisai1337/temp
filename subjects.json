@@ -1,0 +1,52 @@
+{
+  "CSE": {
+    "1-1": ["Mathematics-I", "Physics", "Programming", "Engineering Drawing"],
+    "1-2": ["Mathematics-II", "Chemistry", "Data Structures", "Basic Electrical Engineering"],
+    "2-1": ["Mathematics-III", "OOPS", "Digital Electronics", "DBMS"],
+    "2-2": ["Computer Networks", "Operating Systems", "Microprocessors"],
+    "3-1": ["Machine Learning", "Web Technologies", "Software Engineering"],
+    "3-2": ["AI", "Cloud Computing", "Cyber Security"],
+    "4-1": ["Big Data", "Blockchain", "IoT"],
+    "4-2": ["Deep Learning", "Final Year Project"]
+  },
+  "ECE": { 
+    "1-1": ["Mathematics-III", "Physics", "Programming", "Engineering Drawing"],
+    "1-2": ["Mathematics-II", "Chemistry", "Data Structures", "Basic Electrical Engineering"],
+    "2-1": ["Mathematics-III", "OOPS", "Digital Electronics", "DBMS"],
+    "2-2": ["Computer Networks", "Operating Systems", "Microprocessors"],
+    "3-1": ["Machine Learning", "Web Technologies", "Software Engineering"],
+    "3-2": ["AI", "Cloud Computing", "Cyber Security"],
+    "4-1": ["Big Data", "Blockchain", "IoT"],
+    "4-2": ["Deep Learning", "Final Year Project"]
+  },
+  "EEE": { 
+    "1-1": ["Mathematics", "Physics", "Programming", "Engineering Drawing"],
+    "1-2": ["Mathematics-II", "Chemistry", "Data Structures", "Basic Electrical Engineering"],
+    "2-1": ["Mathematics-III", "OOPS", "Digital Electronics", "DBMS"],
+    "2-2": ["Computer Networks", "Operating Systems", "Microprocessors"],
+    "3-1": ["Machine Learning", "Web Technologies", "Software Engineering"],
+    "3-2": ["AI", "Cloud Computing", "Cyber Security"],
+    "4-1": ["Big Data", "Blockchain", "IoT"],
+    "4-2": ["Deep Learning", "Final Year Project"]
+  },
+  "MECH": { 
+    "1-1": ["Mathe", "Physics", "Programming", "Engineering Drawing"],
+    "1-2": ["Mathematics-II", "Chemistry", "Data Structures", "Basic Electrical Engineering"],
+    "2-1": ["Mathematics-III", "OOPS", "Digital Electronics", "DBMS"],
+    "2-2": ["Computer Networks", "Operating Systems", "Microprocessors"],
+    "3-1": ["Machine Learning", "Web Technologies", "Software Engineering"],
+    "3-2": ["AI", "Cloud Computing", "Cyber Security"],
+    "4-1": ["Big Data", "Blockchain", "IoT"],
+    "4-2": ["Deep Learning", "Final Year Project"]
+  },
+  "Civil": { 
+    "1-1": ["Mathe", "Physics-II", "Programming", "Engineering Drawing"],
+    "1-2": ["Mathematics-II", "Chemistry", "Data Structures", "Basic Electrical Engineering"],
+    "2-1": ["Mathematics-III", "OOPS", "Digital Electronics", "DBMS"],
+    "2-2": ["Computer Networks", "Operating Systems", "Microprocessors"],
+    "3-1": ["Machine Learning", "Web Technologies", "Software Engineering"],
+    "3-2": ["AI", "Cloud Computing", "Cyber Security"],
+    "4-1": ["Big Data", "Blockchain", "IoT"],
+    "4-2": ["Deep Learning", "Final Year Project"]
+  },
+}
